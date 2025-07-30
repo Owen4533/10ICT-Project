@@ -2,6 +2,9 @@ from bottle import route, run, template, view, static_file, request, redirect, e
 import requests
 from datetime import datetime
 
+@route('/static/<filepath:path>')
+def server_static(filepath):
+     return static_file(filepath, root='./static')
 
 @route('/')
 @route('/home')
