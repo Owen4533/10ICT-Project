@@ -17,5 +17,10 @@ def index():
 def sport_page():
   pass
 
+@route('/page2')
+@view('Other')
+def Other_page():
+  pass
+
   #main routine
 run(host='0.0.0.0', port=4000, reloader=True, debug=True)
