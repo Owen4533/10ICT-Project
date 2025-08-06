@@ -13,7 +13,7 @@ def index():
   pass
 
 @route('/page1')
-@view('/page1')
+@view('sport')
 def sport_page():
   pass
 
