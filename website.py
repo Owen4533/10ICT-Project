@@ -13,13 +13,13 @@ def index():
   pass
 
 @route('/page1')
-@view('sport')
-def sport_page():
+@view('support')
+def support_page():
   pass
 
 @route('/page2')
-@view('College')
-def College_page():
+@view('Pride')
+def Pride_page():
   pass
 
   #main routine
