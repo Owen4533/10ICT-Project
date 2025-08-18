@@ -4,7 +4,8 @@ img {
 }
 
 h1 {
-    background-color: blue;
+    background-color: rgb(68, 240, 225);
     text-align: center;
     width: 600px;
+    color: darkgreen;
 }
