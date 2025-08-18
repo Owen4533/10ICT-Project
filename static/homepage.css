@@ -4,5 +4,7 @@ img {
 }
 
 h1 {
-    background-color: yellow;
+    background-color: blue;
+    text-align: center;
+    width: 600px;
 }
