@@ -5,24 +5,30 @@ img {
 }
 
 h1 {
-    background-color: blue;
     text-align: center;
     width: 600px;
-    color: turquoise;
+    color: #0066CC;
 }
 
 p  {
     font-size: 30px;
-    color: turquoise;
+    color: #0066CC;
 }
 
 h2 {
-    color: darkturquoise;
+    color: #0066CC;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 button {
-  background-color: blue; 
-  color: turquoise;
+  background-color:#4A2C0F; 
+  color: #0066CC;
+  padding: 16px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: medium;
+}
 
+body  {
+    background: #ff0000;
+    background: linear-gradient(90deg,rgba(255, 0, 0, 1) 12%, rgba(252, 97, 8, 1) 49%, rgba(252, 237, 69, 1) 92%);
 }
