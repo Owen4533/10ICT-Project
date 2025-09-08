@@ -29,6 +29,6 @@ button {
 }
 
 body  {
-    background: #ff0000;
-    background: linear-gradient(90deg,rgba(255, 0, 0, 1) 12%, rgba(252, 97, 8, 1) 49%, rgba(252, 237, 69, 1) 92%);
+  background: #22C1C3;
+  background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(149, 255, 0, 1) 100%);
 }
